@@ -1,0 +1,21 @@
+{
+  "name": "numcampsites",
+  "version": "1.0.0",
+  "discription": "",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Musheer",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
